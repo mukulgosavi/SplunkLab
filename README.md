@@ -23,3 +23,5 @@ drag & drop screenshots here or use imgur and reference them using imgsrc
 Every screenshot should have some text explaining what the screenshot is about.
 
 ![image](https://github.com/mukulgosavi/SplunkLab/assets/37416784/3979baa1-7d6c-47f9-b1b6-4d20bbe60122)
+
+![Setup](https://github.com/mukulgosavi/SplunkLab/assets/37416784/e4556f03-934a-4043-89a5-1be4858ebb54)
