@@ -16,7 +16,8 @@ Enhanced knowledge of network protocols and security vulnerabilities.
 Development of critical thinking and problem-solving skills in cybersecurity.
 
 Security Architecture - Developed a holistic security architecture that considered the entire system, addressing weaknesses and ensuring a cohesive security strategy.
-![Setup](https://github.com/mukulgosavi/SplunkLab/assets/37416784/745e87b1-1209-4ec0-8606-7c1486e31cd5)
+
+![Setup](https://github.com/mukulgosavi/SplunkLab/assets/37416784/4ef76563-9bdf-4eee-9f8d-48bc52231aa2)
 
 # Outcomes 
 Security Information and Event Management (SIEM) system for log ingestion and analysis.
