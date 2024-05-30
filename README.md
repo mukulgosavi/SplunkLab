@@ -20,4 +20,5 @@ Security Architecture - Developed a holistic security architecture that consider
 
 # Outcomes 
 Security Information and Event Management (SIEM) system for log ingestion and analysis.
+
 Telemetry generation tools to create realistic network traffic and attack scenarios.
