@@ -109,5 +109,3 @@ index=<your_smtp_index> sourcetype=<your_smtp_sourcetype>
 
 ## Conclusion
 Analyzing SMTP log files with Splunk SIEM enhances network security by monitoring email traffic, detecting anomalies, and correlating data for threat detection. By leveraging Splunk's capabilities, organizations can proactively identify and respond to email-based threats, ensuring the integrity and confidentiality of their communications.
-
-Feel free to customize these steps according to your specific use case and requirements. 
