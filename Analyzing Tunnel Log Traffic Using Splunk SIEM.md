@@ -90,8 +90,4 @@ index=<your_tunnel_index> sourcetype=<your_tunnel_sourcetype> tunnel_protocol=GR
 ## Conclusion
 In conclusion, integrating Zeek IDS tunnel logs into Splunk SIEM provides security teams with the necessary visibility and tools to proactively monitor, detect, and respond to tunneling-related security incidents, ultimately enhancing overall cybersecurity posture and resilience against emerging threats.
 
-Feel free to customize these steps according to your specific use case and requirements. 
-
-Happy analyzing!
-
 
