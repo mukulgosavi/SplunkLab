@@ -20,7 +20,6 @@ Security Architecture - Developed a holistic security architecture that consider
 ![Setup](https://github.com/mukulgosavi/SplunkLab/assets/37416784/4ef76563-9bdf-4eee-9f8d-48bc52231aa2)
 
 #Log Analysis Projects
-
 1. [Analyzing DNS Logs Using Splunk SIEM](https://github.com/mukulgosavi/SplunkLab/blob/main/Analyzing%20DNS%20Log%20Files%20Using%20Splunk%20SIEM.md): This project provides a step-by-step guide for analyzing DNS (Domain Name System) log files using Splunk SIEM. It covers uploading sample log files, extracting relevant fields, analyzing DNS query patterns, detecting anomalies, and monitoring DNS traffic.
 2. [Analyzing FTP Logs Using Splunk SIEM](https://github.com/mukulgosavi/SplunkLab/blob/main/Analyzing%20FTP%20Log%20Files%20Using%20Splunk%20SIEM.md): This project guides you through analyzing FTP (File Transfer Protocol) log files using Splunk SIEM. It includes steps for uploading sample log files, extracting fields, analyzing FTP activity patterns, detecting anomalies, and monitoring FTP traffic.
 3. [Analyzing HTTP Logs Using Splunk SIEM](https://github.com/mukulgosavi/SplunkLab/blob/main/Analyzing%20HTTP%20Log%20Files%20Using%20Splunk%20SIEM.md): This project outlines the process of analyzing HTTP (Hypertext Transfer Protocol) log files using Splunk SIEM. It covers uploading sample log files, extracting relevant fields, analyzing HTTP request patterns, detecting anomalies, and monitoring HTTP traffic.
