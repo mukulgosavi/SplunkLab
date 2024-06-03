@@ -109,7 +109,3 @@ index=<your_dhcp_index> sourcetype=<your_dhcp_sourcetype>
 
 ## Conclusion
 Analyzing DHCP log files using Splunk SIEM provides valuable insights into IP address assignment within a network. By monitoring DHCP events, detecting anomalies, and correlating with other logs, organizations can enhance their network management capabilities, troubleshoot issues, and improve overall network security.
-
-Feel free to customize these steps according to your specific use case and requirements. Happy analyzing!
-
-Feel free to customize these steps according to your specific use case and requirements. 
