@@ -17,7 +17,7 @@ Development of critical thinking and problem-solving skills in cybersecurity.
 
 Security Architecture - Developed a holistic security architecture that considered the entire system, addressing weaknesses and ensuring a cohesive security strategy.
 
-![Setup](https://github.com/mukulgosavi/SplunkLab/assets/37416784/4ef76563-9bdf-4eee-9f8d-48bc52231aa2)
+
 
 # Log Analysis Projects
 
